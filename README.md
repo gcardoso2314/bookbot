@@ -1,2 +1,2 @@
 # bookbot
-First project from boot.dev
+First project from boot.dev - create book statistics reports.
